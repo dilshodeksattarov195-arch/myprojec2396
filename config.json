@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheetch",
+        "uuid": 16700120,
+        "checksum": "tlp0rz"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
